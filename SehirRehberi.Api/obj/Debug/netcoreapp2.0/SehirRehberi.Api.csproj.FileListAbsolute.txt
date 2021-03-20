@@ -1,0 +1,11 @@
+C:\Users\Hp\Desktop\VisualStudioProjeler\SehirRehberi.Api\SehirRehberi.Api\bin\Debug\netcoreapp2.0\SehirRehberi.Api.deps.json
+C:\Users\Hp\Desktop\VisualStudioProjeler\SehirRehberi.Api\SehirRehberi.Api\bin\Debug\netcoreapp2.0\SehirRehberi.Api.runtimeconfig.json
+C:\Users\Hp\Desktop\VisualStudioProjeler\SehirRehberi.Api\SehirRehberi.Api\bin\Debug\netcoreapp2.0\SehirRehberi.Api.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\VisualStudioProjeler\SehirRehberi.Api\SehirRehberi.Api\bin\Debug\netcoreapp2.0\SehirRehberi.Api.dll
+C:\Users\Hp\Desktop\VisualStudioProjeler\SehirRehberi.Api\SehirRehberi.Api\bin\Debug\netcoreapp2.0\SehirRehberi.Api.pdb
+C:\Users\Hp\Desktop\VisualStudioProjeler\SehirRehberi.Api\SehirRehberi.Api\obj\Debug\netcoreapp2.0\SehirRehberi.Api.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\VisualStudioProjeler\SehirRehberi.Api\SehirRehberi.Api\obj\Debug\netcoreapp2.0\SehirRehberi.Api.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\VisualStudioProjeler\SehirRehberi.Api\SehirRehberi.Api\obj\Debug\netcoreapp2.0\SehirRehberi.Api.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\VisualStudioProjeler\SehirRehberi.Api\SehirRehberi.Api\obj\Debug\netcoreapp2.0\SehirRehberi.Api.AssemblyInfo.cs
+C:\Users\Hp\Desktop\VisualStudioProjeler\SehirRehberi.Api\SehirRehberi.Api\obj\Debug\netcoreapp2.0\SehirRehberi.Api.dll
+C:\Users\Hp\Desktop\VisualStudioProjeler\SehirRehberi.Api\SehirRehberi.Api\obj\Debug\netcoreapp2.0\SehirRehberi.Api.pdb
